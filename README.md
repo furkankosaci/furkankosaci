@@ -15,19 +15,17 @@
 
 - 🌱 I’m currently learning **.NET Core, Postman and advanced MongoDB optimization**
 
-- 👯 I’m looking to collaborate on [Back-end web projects (especially .NET based)](Feel free to reach out!)
+- 👯 I’m looking to collaborate on **.NET based backend projects**
 
-- 🤝 I’m looking for help with [Implementing new technologies into my projects](No specific project at the moment, open to ideas!)
+- 🤝 I’m looking for help with [No specific project at the moment, open to ideas!](#)
 
-- 👨‍💻 All of my projects are available at [https://github.com/furkankosaci](https://github.com/furkankosaci)
-
-- 📝 I regularly write articles on [Currently working on starting a blog — stay tuned!](Currently working on starting a blog — stay tuned!)
+- 👨‍💻 All of my projects are available at [My Github](github.com/furkankosaci)
 
 - 💬 Ask me about **HTML, CSS, C#, .NET, MySQL**
 
 - 📫 How to reach me **furkankosaci@gmail.com**
 
-- 📄 Know about my experiences [My LinkedIn profile](My LinkedIn profile)
+- 📄 Know about my experiences [My Linkedin Profile](linkedin.com/furkankosaci)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
