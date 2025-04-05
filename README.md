@@ -1,4 +1,5 @@
-## Hi there 👋
+![MasterHead](https://github.com/Glopxy/Glopxy/blob/main/img/github-header-image.png)
+![](https://komarev.com/ghpvc/?username=Glopxy&color=blue)
 
 
 ## Watch my contribution graph get eaten by the snake 🐍
