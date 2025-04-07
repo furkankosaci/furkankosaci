@@ -8,8 +8,9 @@
  </a>
 </div>
 -->
-
+<!--
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=glopxy" alt="glopxy" /></a> </p>
+-->
 
 - 🔭 I’m currently working on [Pazarlamakolog](https://www.pazarlamakolog.com)
 
