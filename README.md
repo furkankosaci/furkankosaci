@@ -39,7 +39,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkankosaci&show_icons=true&locale=en&layout=compact" alt="furkankosaci" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkankosaci" alt="furkankosaci" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkankosaci&" alt="furkankosaci" /></p>
 
 
 ## Watch my contribution graph get eaten by the snake 🐍
