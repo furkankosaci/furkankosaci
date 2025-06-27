@@ -43,7 +43,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=furkankosaci&" alt="furkankosaci" /></p>
 -->
 
-## Watch my contribution graph get eaten by the snake 🐍
+### Watch my contribution graph get eaten by the snake 🐍
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/furkankosaci/furkankosaci/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/furkankosaci/furkankosaci/output/github-contribution-grid-snake.svg">
